@@ -1,0 +1,31 @@
+
+/* Simple color*/
+
+h1{
+    color: green;
+}
+h2{
+    color: gold; 
+}
+p{
+     color:gold;
+}
+/*rgb colors*/
+button{
+    color: rgb(97, 165, 42);
+    background-color: white;
+}
+
+body{
+    background-color:rgb(191,34,115);
+}
+ 
+
+
+/*Hexadecimal colors*/
+
+/* body{
+    background-color: #ffff00;
+} */
+
+
