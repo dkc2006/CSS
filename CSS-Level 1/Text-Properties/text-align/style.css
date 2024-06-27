@@ -1,0 +1,23 @@
+/* Left text-align */
+
+/* p{
+    text-align: left;
+} */
+
+/* Centre text-align */
+
+/* p{
+    text-align: center;
+}
+ */
+
+ /* right text-align */
+
+ p{
+    text-align: right;
+ }
+
+ 
+h1{  
+    text-align: left;/* left, right, centre */
+}
