@@ -17,7 +17,12 @@
     text-align: right;
  }
 
- 
+ /*CSS 3 */
+
+ h1{
+    text-align: start; /*Start , end */
+ }
+
 h1{  
     text-align: left;/* left, right, centre */
 }
