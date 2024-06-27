@@ -1,0 +1,18 @@
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*font-family : arial
+font-family: arial,roboto,serif,sans-serif,cursive,fantasy,monospace;
+*/
+#one{
+    font-family: Arial;
+}
+
+#two{
+    font-family: cursive;
+}
